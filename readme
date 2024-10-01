@@ -1,0 +1,49 @@
+git is a tool though which we can share backup,deploy 
+and maintain version of it.
+git---distributed version control system.
+
+git --version  version of ur system.
+repositories---think of repos as folders.
+it can be of two types--local and remote repo..
+
+git init initialize the git.
+
+branches on github.
+
+git branch it will show the branch
+
+cd..
+cd diffrent project
+
+git branch new create new branch
+
+how to switch to diffrent branch..
+git switch <branchname>
+
+how to create and switch at the same time.
+git checkout -b <branchname>
+
+How to put code on github..
+1.Tracking/knowing which files to put
+git add <file1><file2><file3>
+for tracking everything
+git add .
+2.putting commit/finalising version of code
+git commit -m "commitmessage"
+git remote and origin"address"
+3.pushing the code to github
+git push <branchname>
+upstream branch-- from local branch to remote and vice-versa
+git push --setupstream origin main.
+
+
+
+step1.-git add .
+step2.-git commit -m ""
+step3.-git push
+
+
+
+
+
+
